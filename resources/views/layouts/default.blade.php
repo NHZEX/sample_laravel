@@ -1,7 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: NHZEX
- * Date: 2018/4/24
- * Time: 23:10
- */
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>@yield('title', 'Sample') - Laravel 新手入门教程</title>
+    </head>
+    <body>
+        @yield('content')
+    </body>
+</html>git
